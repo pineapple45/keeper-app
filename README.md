@@ -9,5 +9,5 @@ https://keeper-app-43abb.web.app/
 
 ### TECHNOLOGIES USED
 -  Front-end: React (react-hooks), Material-UI 
--  Back-end :Firebase for storing data.
+-  Back-end : Firebase for storing data.
 -  Hosting : Firebase Hosting is used.
