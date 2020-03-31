@@ -8,6 +8,6 @@ Keeper is a basic note making app made using react hooks capable of storing quic
 https://keeper-app-43abb.web.app/
 
 ### TECHNOLOGIES USED
--  Front-end: React (react-hooks) 
+-  Front-end: React (react-hooks), Material-UI 
 -  Back-end :Firebase for storing data.
 -  Hosting : Firebase Hosting is used.
